@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestamos.API", "Prestamos.API\Prestamos.API.csproj", "{38D1E907-3259-460B-B704-F4822F7075F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D1E907-3259-460B-B704-F4822F7075F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D1E907-3259-460B-B704-F4822F7075F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D1E907-3259-460B-B704-F4822F7075F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D1E907-3259-460B-B704-F4822F7075F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F24DF27B-38A7-4897-B25B-64E547789C41}
+	EndGlobalSection
+EndGlobal
